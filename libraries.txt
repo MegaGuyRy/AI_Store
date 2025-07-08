@@ -1,7 +1,0 @@
-pip install labelImg
-pip install tensorflow==2.10
-pip install opencv-python
-pip install numpy
-pip install matplotlib
-pip install scikit-learn
-pip install pandas
