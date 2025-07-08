@@ -14,7 +14,7 @@ Built with TensorFlow and OpenCV, the model is trained on a custom dataset of la
 
 ### Dataset
 The dataset consists of:
-- ~30 annotated images for training and validation (10 images per class: sauce, noodles, powder)
+- ~100 annotated images per class for training and validation
 - Images were labeled using [LabelImg](https://github.com/heartexlabs/labelImg) and converted into a format compatible with TensorFlow pipelines.
 
 ### Model Architecture
